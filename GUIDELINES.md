@@ -1,5 +1,6 @@
 # Community Guidelines
 
+
 ## Purpose of This Repository
 
 This repository is a **community of programmable examples** for the Nokia Network Services Platform (NSP). It is intended for customers, engineers, partners, and anyone who wants to learn how to build NSP artifacts such as:
